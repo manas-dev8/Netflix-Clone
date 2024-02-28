@@ -1,4 +1,4 @@
-# Netflix-Clone: HTML & CSS
+# Netflix-Clone(Landing Page): HTML & CSS
 Welcome to my Netflix clone project built using HTML and CSS! 
 
 In this project, I've recreated the user interface of Netflix, allowing users to experience a similar browsing and viewing experience. Leveraging HTML for structure and CSS for styling, I've aimed to mimic the layout, design, and functionality of the popular streaming platform.
